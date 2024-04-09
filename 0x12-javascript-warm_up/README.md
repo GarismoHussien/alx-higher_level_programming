@@ -1,4 +1,4 @@
-Resources
+# Resources
 Read or watch:
 
 Writing JavaScript Code
